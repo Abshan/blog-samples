@@ -28,7 +28,7 @@ public class CustomSynapseHandler extends AbstractSynapseHandler {
         try {
 
             /**
-             * API handler processing logic.
+             * Synapse handler processing logic.
              */
 
             return true;
